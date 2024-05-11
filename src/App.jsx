@@ -83,7 +83,7 @@ function App() {
                     <h3>The Eras Tour <br /></h3>
 
                     <p>
-                      Sat May 11 • 6:30 PM Paris La Defense Arena NANTERRE,
+                      Sat May 12 • 6:30 PM Paris La Defense Arena NANTERRE,
                       France.
                     </p>
                   </div>
@@ -129,7 +129,7 @@ function App() {
                     <h3>The Eras Tour<br /></h3>
 
                     <p>
-                      Sat May 11 • 6:30 PM Paris La Defense Arena NANTERRE,
+                      Sat May 12 • 6:30 PM Paris La Defense Arena NANTERRE,
                       France.
                     </p>
                   </div>
@@ -175,7 +175,7 @@ function App() {
                     <h3>The Eras Tour<br /></h3>
 
                     <p>
-                      Sat May 11 • 6:30 PM Paris La Defense Arena NANTERRE,
+                      Sat May 12 • 6:30 PM Paris La Defense Arena NANTERRE,
                       France.
                     </p>
                   </div>
@@ -221,7 +221,7 @@ function App() {
                     <h3>The Eras Tour <br /></h3>
 
                     <p>
-                      Sat May 11 • 6:30 PM Paris La Defense Arena NANTERRE,
+                      Sat May 12 • 6:30 PM Paris La Defense Arena NANTERRE,
                       France.
                     </p>
                   </div>
@@ -267,7 +267,7 @@ function App() {
                     <h3>The Eras Tour<br /></h3>
 
                     <p>
-                      Sat May 11 • 6:30 PM Paris La Defense Arena NANTERRE,
+                      Sat May 12 • 6:30 PM Paris La Defense Arena NANTERRE,
                       France.
                     </p>
                   </div>
@@ -313,7 +313,7 @@ function App() {
                     <h3>The Eras Tour<br /></h3>
 
                     <p>
-                      Sat May 11 • 6:30 PM Paris La Defense Arena NANTERRE,
+                      Sat May 12 • 6:30 PM Paris La Defense Arena NANTERRE,
                       France.
                     </p>
                   </div>
@@ -342,8 +342,8 @@ function App() {
         <div className="swiper-pagination swiper-navBtn1" ref={sliderPagination}></div>
 
         <div className="banner-btn">
-          <a href=""> <span></span>Transfer</a>
-          <a href=""> <span></span>Sell</a>
+          <a href=""> <span></span>Transfert</a>
+          <a href=""> <span></span>Vendre</a>
         </div>
       </div>
     </>
