@@ -70,21 +70,73 @@ function App() {
                   <span className="seat">SEAT</span>
                 </div>
                 <div className="row1">
-                  <span className="seat"> 106</span>
-                  <span className="seat"> 27 </span>
+                  <span className="seat"> CAT1</span>
+                  <span className="seat"> Q</span>
+                  <span className="seat"> 5</span>
+                </div>
+              </div>
+              <div className="image-content">
+                <div className="card-img">
+                  <img src="/tour.jpeg" alt="nick" style={{
+                    width: "350px",
+                    height: "200px",
+                    objectFit: "fill"
+                  }} />
+                  <div className="overlay"></div>
+                  <div className="service-desc">
+                    <h3>Tour 2024 <br /></h3>
+
+                    <p>
+                      Mar mai 14 • 8pm ZENITH NANTES METROPOLE ZAC AR MOR 44800 ST HERBLAIN - FRANCE.
+                    </p>
+                  </div>
+                </div>
+              </div>
+              <div className="card-content">
+                <h2 className="name">Article 106</h2>
+                <button className="btn-apple">
+                  <img src="/ZDxqK9zTaxuz.png" alt="nick" className="apple" />
+                  <span>Add to Apple Wallet</span>
+                </button>
+                <div className="detail">
+                  <a href="">Afficher le code-barres</a>
+                  <a href="">Détails du billet</a>
+                </div>
+              </div>
+              <div className="footer-content">
+                <img src="/euZet6wt4nPl.png" alt="" className="love" />
+                <p><i>ticketmaster.verified</i></p>
+              </div>
+            </div>
+            <div className="card swiper-slide">
+              <div className="header-content">
+                <h4>Billet standard</h4>
+              </div>
+              <div className="seat-content">
+                <div className="row">
+                  <span className="seat">SEC</span>
+                  <span className="seat">ROW</span>
+                  <span className="seat">SEAT</span>
+                </div>
+                <div className="row1">
+                  <span className="seat"> CAT1</span>
+                  <span className="seat"> Q</span>
                   <span className="seat"> 6</span>
                 </div>
               </div>
               <div className="image-content">
                 <div className="card-img">
-                  <img src="/nick.png" alt="nick" className="card-img" />
+                  <img src="/tour.jpeg" alt="nick" style={{
+                    width: "350px",
+                    height: "200px",
+                    objectFit: "fill"
+                  }} />
                   <div className="overlay"></div>
                   <div className="service-desc">
-                    <h3>The Eras Tour <br /></h3>
+                    <h3>Tour 2024<br /></h3>
 
                     <p>
-                      Sun May 12 • 6:30 PM Paris La Defense Arena NANTERRE,
-                      France.
+                      Mar mai 14 • 8pm ZENITH NANTES METROPOLE ZAC AR MOR 44800 ST HERBLAIN - FRANCE.
                     </p>
                   </div>
                 </div>
@@ -116,21 +168,24 @@ function App() {
                   <span className="seat">SEAT</span>
                 </div>
                 <div className="row1">
-                  <span className="seat"> 106</span>
-                  <span className="seat"> 27 </span>
+                  <span className="seat"> CAT1</span>
+                  <span className="seat"> Q</span>
                   <span className="seat"> 7</span>
                 </div>
               </div>
               <div className="image-content">
                 <div className="card-img">
-                  <img src="/nick.png" alt="nick" className="card-img" />
+                  <img src="/tour.jpeg" alt="nick" style={{
+                    width: "350px",
+                    height: "200px",
+                    objectFit: "fill"
+                  }} />
                   <div className="overlay"></div>
                   <div className="service-desc">
-                    <h3>The Eras Tour<br /></h3>
+                    <h3>Tour 2024<br /></h3>
 
                     <p>
-                      Sun May 12 • 6:30 PM Paris La Defense Arena NANTERRE,
-                      France.
+                      Mar mai 14 • 8pm ZENITH NANTES METROPOLE ZAC AR MOR 44800 ST HERBLAIN - FRANCE.
                     </p>
                   </div>
                 </div>
@@ -162,21 +217,24 @@ function App() {
                   <span className="seat">SEAT</span>
                 </div>
                 <div className="row1">
-                  <span className="seat"> 106</span>
-                  <span className="seat"> 27</span>
-                  <span className="seat"> 8</span>
+                  <span className="seat"> CAT1</span>
+                  <span className="seat"> Q</span>
+                  <span className="seat"> 5</span>
                 </div>
               </div>
               <div className="image-content">
                 <div className="card-img">
-                  <img src="/nick.png" alt="nick" className="card-img" />
+                  <img src="/tour.jpeg" alt="nick" style={{
+                    width: "350px",
+                    height: "200px",
+                    objectFit: "fill"
+                  }} />
                   <div className="overlay"></div>
                   <div className="service-desc">
-                    <h3>The Eras Tour<br /></h3>
+                    <h3>Tour 2024 <br /></h3>
 
                     <p>
-                      Sun May 12 • 6:30 PM Paris La Defense Arena NANTERRE,
-                      France.
+                      Mar mai 14 • 8pm ZENITH NANTES METROPOLE ZAC AR MOR 44800 ST HERBLAIN - FRANCE.
                     </p>
                   </div>
                 </div>
@@ -208,21 +266,24 @@ function App() {
                   <span className="seat">SEAT</span>
                 </div>
                 <div className="row1">
-                  <span className="seat"> 106</span>
-                  <span className="seat"> 27 </span>
+                  <span className="seat"> CAT1</span>
+                  <span className="seat"> Q</span>
                   <span className="seat"> 6</span>
                 </div>
               </div>
               <div className="image-content">
                 <div className="card-img">
-                  <img src="/nick.png" alt="nick" className="card-img" />
+                  <img src="/tour.jpeg" alt="nick" style={{
+                    width: "350px",
+                    height: "200px",
+                    objectFit: "fill"
+                  }} />
                   <div className="overlay"></div>
                   <div className="service-desc">
-                    <h3>The Eras Tour <br /></h3>
+                    <h3>Tour 2024<br /></h3>
 
                     <p>
-                      Sun May 12 • 6:30 PM Paris La Defense Arena NANTERRE,
-                      France.
+                      Mar mai 14 • 8pm ZENITH NANTES METROPOLE ZAC AR MOR 44800 ST HERBLAIN - FRANCE.
                     </p>
                   </div>
                 </div>
@@ -254,67 +315,24 @@ function App() {
                   <span className="seat">SEAT</span>
                 </div>
                 <div className="row1">
-                  <span className="seat"> 106</span>
-                  <span className="seat"> 27 </span>
+                  <span className="seat"> CAT1</span>
+                  <span className="seat"> 27</span>
                   <span className="seat"> 7</span>
                 </div>
               </div>
               <div className="image-content">
                 <div className="card-img">
-                  <img src="/nick.png" alt="nick" className="card-img" />
+                  <img src="/tour.jpeg" alt="nick" style={{
+                    width: "350px",
+                    height: "200px",
+                    objectFit: "fill"
+                  }} />
                   <div className="overlay"></div>
                   <div className="service-desc">
-                    <h3>The Eras Tour<br /></h3>
+                    <h3>Tour 2024<br /></h3>
 
                     <p>
-                      Sun May 12 • 6:30 PM Paris La Defense Arena NANTERRE,
-                      France.
-                    </p>
-                  </div>
-                </div>
-              </div>
-              <div className="card-content">
-                <h2 className="name">Article 106</h2>
-                <button className="btn-apple">
-                  <img src="/ZDxqK9zTaxuz.png" alt="nick" className="apple" />
-                  <span>Add to Apple Wallet</span>
-                </button>
-                <div className="detail">
-                  <a href="">Afficher le code-barres</a>
-                  <a href="">Détails du billet</a>
-                </div>
-              </div>
-              <div className="footer-content">
-                <img src="/euZet6wt4nPl.png" alt="" className="love" />
-                <p><i>ticketmaster.verified</i></p>
-              </div>
-            </div>
-            <div className="card swiper-slide">
-              <div className="header-content">
-                <h4>Billet standard</h4>
-              </div>
-              <div className="seat-content">
-                <div className="row">
-                  <span className="seat">SEC</span>
-                  <span className="seat">ROW</span>
-                  <span className="seat">SEAT</span>
-                </div>
-                <div className="row1">
-                  <span className="seat"> 106</span>
-                  <span className="seat"> 27</span>
-                  <span className="seat"> 8</span>
-                </div>
-              </div>
-              <div className="image-content">
-                <div className="card-img">
-                  <img src="/nick.png" alt="nick" className="card-img" />
-                  <div className="overlay"></div>
-                  <div className="service-desc">
-                    <h3>The Eras Tour<br /></h3>
-
-                    <p>
-                      Sun May 12 • 6:30 PM Paris La Defense Arena NANTERRE,
-                      France.
+                      Mar mai 14 • 8pm ZENITH NANTES METROPOLE ZAC AR MOR 44800 ST HERBLAIN - FRANCE.
                     </p>
                   </div>
                 </div>
