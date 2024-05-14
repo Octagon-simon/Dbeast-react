@@ -79,7 +79,7 @@ function App() {
                 <div className="card-img">
                   <img src="/tour.jpeg" alt="nick" style={{
                     width: "350px",
-                    height: "200px",
+                    height: "350px",
                     objectFit: "fill"
                   }} />
                   <div className="overlay"></div>
@@ -93,7 +93,7 @@ function App() {
                 </div>
               </div>
               <div className="card-content">
-                <h2 className="name">Article 106</h2>
+                <h2 className="name">CAT1</h2>
                 <button className="btn-apple">
                   <img src="/ZDxqK9zTaxuz.png" alt="nick" className="apple" />
                   <span>Add to Apple Wallet</span>
@@ -128,7 +128,7 @@ function App() {
                 <div className="card-img">
                   <img src="/tour.jpeg" alt="nick" style={{
                     width: "350px",
-                    height: "200px",
+                    height: "350px",
                     objectFit: "fill"
                   }} />
                   <div className="overlay"></div>
@@ -142,7 +142,7 @@ function App() {
                 </div>
               </div>
               <div className="card-content">
-                <h2 className="name">Article 106</h2>
+                <h2 className="name">CAT1</h2>
                 <button className="btn-apple">
                   <img src="/ZDxqK9zTaxuz.png" alt="nick" className="apple" />
                   <span>Add to Apple Wallet</span>
@@ -177,7 +177,7 @@ function App() {
                 <div className="card-img">
                   <img src="/tour.jpeg" alt="nick" style={{
                     width: "350px",
-                    height: "200px",
+                    height: "350px",
                     objectFit: "fill"
                   }} />
                   <div className="overlay"></div>
@@ -191,7 +191,7 @@ function App() {
                 </div>
               </div>
               <div className="card-content">
-                <h2 className="name">Article 106</h2>
+                <h2 className="name">CAT1</h2>
                 <button className="btn-apple">
                   <img src="/ZDxqK9zTaxuz.png" alt="nick" className="apple" />
                   <span>Add to Apple Wallet</span>
@@ -226,7 +226,7 @@ function App() {
                 <div className="card-img">
                   <img src="/tour.jpeg" alt="nick" style={{
                     width: "350px",
-                    height: "200px",
+                    height: "350px",
                     objectFit: "fill"
                   }} />
                   <div className="overlay"></div>
@@ -240,7 +240,7 @@ function App() {
                 </div>
               </div>
               <div className="card-content">
-                <h2 className="name">Article 106</h2>
+                <h2 className="name">CAT1</h2>
                 <button className="btn-apple">
                   <img src="/ZDxqK9zTaxuz.png" alt="nick" className="apple" />
                   <span>Add to Apple Wallet</span>
@@ -275,7 +275,7 @@ function App() {
                 <div className="card-img">
                   <img src="/tour.jpeg" alt="nick" style={{
                     width: "350px",
-                    height: "200px",
+                    height: "350px",
                     objectFit: "fill"
                   }} />
                   <div className="overlay"></div>
@@ -289,7 +289,7 @@ function App() {
                 </div>
               </div>
               <div className="card-content">
-                <h2 className="name">Article 106</h2>
+                <h2 className="name">CAT1</h2>
                 <button className="btn-apple">
                   <img src="/ZDxqK9zTaxuz.png" alt="nick" className="apple" />
                   <span>Add to Apple Wallet</span>
@@ -324,7 +324,7 @@ function App() {
                 <div className="card-img">
                   <img src="/tour.jpeg" alt="nick" style={{
                     width: "350px",
-                    height: "200px",
+                    height: "350px",
                     objectFit: "fill"
                   }} />
                   <div className="overlay"></div>
@@ -338,7 +338,7 @@ function App() {
                 </div>
               </div>
               <div className="card-content">
-                <h2 className="name">Article 106</h2>
+                <h2 className="name">CAT1</h2>
                 <button className="btn-apple">
                   <img src="/ZDxqK9zTaxuz.png" alt="nick" className="apple" />
                   <span>Add to Apple Wallet</span>
