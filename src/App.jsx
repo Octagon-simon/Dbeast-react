@@ -70,8 +70,8 @@ function App() {
                   <span className="seat">Asiento</span>
                 </div>
                 <div className="row1">
-                  <span className="seat"> 103</span>
-                  <span className="seat"> 7</span>
+                  <span className="seat"> 202</span>
+                  <span className="seat"> 5</span>
                   <span className="seat"> 6</span>
                 </div>
               </div>
@@ -94,7 +94,7 @@ Santiago Bernabéu Stadium , Madrid.
                 </div>
               </div>
               <div className="card-content">
-                <h2 className="name">103</h2>
+                <h2 className="name">202</h2>
                 <button className="btn-apple">
                   <img src="/ZDxqK9zTaxuz.png" alt="nick" className="apple" />
                   <span>Add to Apple Wallet</span>
@@ -120,8 +120,8 @@ Santiago Bernabéu Stadium , Madrid.
                   <span className="seat">Asiento</span>
                 </div>
                 <div className="row1">
-                  <span className="seat"> 103</span>
-                  <span className="seat"> 7</span>
+                  <span className="seat"> 202</span>
+                  <span className="seat"> 5</span>
                   <span className="seat"> 7</span>
                 </div>
               </div>
@@ -144,7 +144,7 @@ Santiago Bernabéu Stadium , Madrid.
                 </div>
               </div>
               <div className="card-content">
-                <h2 className="name">103</h2>
+                <h2 className="name">202</h2>
                 <button className="btn-apple">
                   <img src="/ZDxqK9zTaxuz.png" alt="nick" className="apple" />
                   <span>Add to Apple Wallet</span>
@@ -170,8 +170,8 @@ Santiago Bernabéu Stadium , Madrid.
                   <span className="seat">Asiento</span>
                 </div>
                 <div className="row1">
-                  <span className="seat"> 103</span>
-                  <span className="seat"> 7</span>
+                  <span className="seat"> 202</span>
+                  <span className="seat"> 5</span>
                   <span className="seat"> 8</span>
                 </div>
               </div>
@@ -194,7 +194,7 @@ Santiago Bernabéu Stadium , Madrid.
                 </div>
               </div>
               <div className="card-content">
-                <h2 className="name">103</h2>
+                <h2 className="name">202</h2>
                 <button className="btn-apple">
                   <img src="/ZDxqK9zTaxuz.png" alt="nick" className="apple" />
                   <span>Add to Apple Wallet</span>
@@ -220,8 +220,8 @@ Santiago Bernabéu Stadium , Madrid.
                   <span className="seat">Asiento</span>
                 </div>
                 <div className="row1">
-                  <span className="seat"> 103</span>
-                  <span className="seat"> 7</span>
+                  <span className="seat"> 202</span>
+                  <span className="seat"> 5</span>
                   <span className="seat"> 6</span>
                 </div>
               </div>
@@ -244,7 +244,7 @@ Santiago Bernabéu Stadium , Madrid.
                 </div>
               </div>
               <div className="card-content">
-                <h2 className="name">103</h2>
+                <h2 className="name">202</h2>
                 <button className="btn-apple">
                   <img src="/ZDxqK9zTaxuz.png" alt="nick" className="apple" />
                   <span>Add to Apple Wallet</span>
@@ -270,8 +270,8 @@ Santiago Bernabéu Stadium , Madrid.
                   <span className="seat">Asiento</span>
                 </div>
                 <div className="row1">
-                  <span className="seat"> 103</span>
-                  <span className="seat"> 7</span>
+                  <span className="seat"> 202</span>
+                  <span className="seat"> 5</span>
                   <span className="seat"> 7</span>
                 </div>
               </div>
@@ -294,7 +294,7 @@ Santiago Bernabéu Stadium , Madrid.
                 </div>
               </div>
               <div className="card-content">
-                <h2 className="name">103</h2>
+                <h2 className="name">202</h2>
                 <button className="btn-apple">
                   <img src="/ZDxqK9zTaxuz.png" alt="nick" className="apple" />
                   <span>Add to Apple Wallet</span>
@@ -320,8 +320,8 @@ Santiago Bernabéu Stadium , Madrid.
                   <span className="seat">Asiento</span>
                 </div>
                 <div className="row1">
-                  <span className="seat"> 103</span>
-                  <span className="seat"> 27</span>
+                  <span className="seat"> 202</span>
+                  <span className="seat"> 5</span>
                   <span className="seat"> 8</span>
                 </div>
               </div>
@@ -344,7 +344,7 @@ Santiago Bernabéu Stadium , Madrid.
                 </div>
               </div>
               <div className="card-content">
-                <h2 className="name">103</h2>
+                <h2 className="name">202</h2>
                 <button className="btn-apple">
                   <img src="/ZDxqK9zTaxuz.png" alt="nick" className="apple" />
                   <span>Add to Apple Wallet</span>
@@ -396,7 +396,7 @@ Santiago Bernabéu Stadium , Madrid.
                 </div>
               </div>
               <div className="card-content">
-                <h2 className="name">103</h2>
+                <h2 className="name">202</h2>
                 <button className="btn-apple">
                   <img src="/ZDxqK9zTaxuz.png" alt="nick" className="apple" />
                   <span>Add to Apple Wallet</span>
@@ -446,7 +446,7 @@ Santiago Bernabéu Stadium , Madrid.
                 </div>
               </div>
               <div className="card-content">
-                <h2 className="name">103</h2>
+                <h2 className="name">202</h2>
                 <button className="btn-apple">
                   <img src="/ZDxqK9zTaxuz.png" alt="nick" className="apple" />
                   <span>Add to Apple Wallet</span>
@@ -496,7 +496,7 @@ Santiago Bernabéu Stadium , Madrid.
                 </div>
               </div>
               <div className="card-content">
-                <h2 className="name">103</h2>
+                <h2 className="name">202</h2>
                 <button className="btn-apple">
                   <img src="/ZDxqK9zTaxuz.png" alt="nick" className="apple" />
                   <span>Add to Apple Wallet</span>
