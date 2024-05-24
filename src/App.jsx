@@ -94,7 +94,7 @@ Santiago Bernabéu Stadium , Madrid.
                 </div>
               </div>
               <div className="card-content">
-                <h2 className="name">202</h2>
+                <h2 className="name">sección 202</h2>
                 <button className="btn-apple">
                   <img src="/ZDxqK9zTaxuz.png" alt="nick" className="apple" />
                   <span>Add to Apple Wallet</span>
@@ -144,7 +144,7 @@ Santiago Bernabéu Stadium , Madrid.
                 </div>
               </div>
               <div className="card-content">
-                <h2 className="name">202</h2>
+                <h2 className="name">sección 202</h2>
                 <button className="btn-apple">
                   <img src="/ZDxqK9zTaxuz.png" alt="nick" className="apple" />
                   <span>Add to Apple Wallet</span>
@@ -194,7 +194,7 @@ Santiago Bernabéu Stadium , Madrid.
                 </div>
               </div>
               <div className="card-content">
-                <h2 className="name">202</h2>
+                <h2 className="name">sección 202</h2>
                 <button className="btn-apple">
                   <img src="/ZDxqK9zTaxuz.png" alt="nick" className="apple" />
                   <span>Add to Apple Wallet</span>
@@ -244,7 +244,7 @@ Santiago Bernabéu Stadium , Madrid.
                 </div>
               </div>
               <div className="card-content">
-                <h2 className="name">202</h2>
+                <h2 className="name">sección 202</h2>
                 <button className="btn-apple">
                   <img src="/ZDxqK9zTaxuz.png" alt="nick" className="apple" />
                   <span>Add to Apple Wallet</span>
@@ -294,7 +294,7 @@ Santiago Bernabéu Stadium , Madrid.
                 </div>
               </div>
               <div className="card-content">
-                <h2 className="name">202</h2>
+                <h2 className="name">sección 202</h2>
                 <button className="btn-apple">
                   <img src="/ZDxqK9zTaxuz.png" alt="nick" className="apple" />
                   <span>Add to Apple Wallet</span>
@@ -344,7 +344,7 @@ Santiago Bernabéu Stadium , Madrid.
                 </div>
               </div>
               <div className="card-content">
-                <h2 className="name">202</h2>
+                <h2 className="name">sección 202</h2>
                 <button className="btn-apple">
                   <img src="/ZDxqK9zTaxuz.png" alt="nick" className="apple" />
                   <span>Add to Apple Wallet</span>
@@ -396,7 +396,7 @@ Santiago Bernabéu Stadium , Madrid.
                 </div>
               </div>
               <div className="card-content">
-                <h2 className="name">202</h2>
+                <h2 className="name">sección 202</h2>
                 <button className="btn-apple">
                   <img src="/ZDxqK9zTaxuz.png" alt="nick" className="apple" />
                   <span>Add to Apple Wallet</span>
@@ -446,7 +446,7 @@ Santiago Bernabéu Stadium , Madrid.
                 </div>
               </div>
               <div className="card-content">
-                <h2 className="name">202</h2>
+                <h2 className="name">sección 202</h2>
                 <button className="btn-apple">
                   <img src="/ZDxqK9zTaxuz.png" alt="nick" className="apple" />
                   <span>Add to Apple Wallet</span>
@@ -496,7 +496,7 @@ Santiago Bernabéu Stadium , Madrid.
                 </div>
               </div>
               <div className="card-content">
-                <h2 className="name">202</h2>
+                <h2 className="name">sección 202</h2>
                 <button className="btn-apple">
                   <img src="/ZDxqK9zTaxuz.png" alt="nick" className="apple" />
                   <span>Add to Apple Wallet</span>
