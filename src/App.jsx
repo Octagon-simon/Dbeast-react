@@ -70,8 +70,8 @@ function App() {
                   <span className="seat">Asiento</span>
                 </div>
                 <div className="row1">
-                  <span className="seat"> 202</span>
-                  <span className="seat"> 5</span>
+                  <span className="seat"> 104</span>
+                  <span className="seat"> 4</span>
                   <span className="seat"> 6</span>
                 </div>
               </div>
@@ -87,14 +87,14 @@ function App() {
                     <h3>The Eras Tour <br /></h3>
 
                     <p>
-                      Wed, Miè, 29 may 2024, 20:00
+                      Thu, Miè, 30 may 2024, 20:00
 Santiago Bernabéu Stadium , Madrid.
                     </p>
                   </div>
                 </div>
               </div>
               <div className="card-content">
-                <h2 className="name">sección 202</h2>
+                <h2 className="name">sección 104</h2>
                 <button className="btn-apple">
                   <img src="/ZDxqK9zTaxuz.png" alt="nick" className="apple" />
                   <span>Add to Apple Wallet</span>
@@ -120,8 +120,8 @@ Santiago Bernabéu Stadium , Madrid.
                   <span className="seat">Asiento</span>
                 </div>
                 <div className="row1">
-                  <span className="seat"> 202</span>
-                  <span className="seat"> 5</span>
+                  <span className="seat"> 104</span>
+                  <span className="seat"> 4</span>
                   <span className="seat"> 7</span>
                 </div>
               </div>
@@ -137,14 +137,14 @@ Santiago Bernabéu Stadium , Madrid.
                     <h3>The Eras Tour<br /></h3>
 
                     <p>
-                      Wed, Miè, 29 may 2024, 20:00
+                      Thu, Miè, 30 may 2024, 20:00
 Santiago Bernabéu Stadium , Madrid.
                     </p>
                   </div>
                 </div>
               </div>
               <div className="card-content">
-                <h2 className="name">sección 202</h2>
+                <h2 className="name">sección 104</h2>
                 <button className="btn-apple">
                   <img src="/ZDxqK9zTaxuz.png" alt="nick" className="apple" />
                   <span>Add to Apple Wallet</span>
@@ -170,8 +170,8 @@ Santiago Bernabéu Stadium , Madrid.
                   <span className="seat">Asiento</span>
                 </div>
                 <div className="row1">
-                  <span className="seat"> 202</span>
-                  <span className="seat"> 5</span>
+                  <span className="seat"> 104</span>
+                  <span className="seat"> 4</span>
                   <span className="seat"> 8</span>
                 </div>
               </div>
@@ -187,14 +187,14 @@ Santiago Bernabéu Stadium , Madrid.
                     <h3>The Eras Tour<br /></h3>
 
                     <p>
-                      Wed, Miè, 29 may 2024, 20:00
+                      Thu, Miè, 30 may 2024, 20:00
 Santiago Bernabéu Stadium , Madrid.
                     </p>
                   </div>
                 </div>
               </div>
               <div className="card-content">
-                <h2 className="name">sección 202</h2>
+                <h2 className="name">sección 104</h2>
                 <button className="btn-apple">
                   <img src="/ZDxqK9zTaxuz.png" alt="nick" className="apple" />
                   <span>Add to Apple Wallet</span>
@@ -220,8 +220,8 @@ Santiago Bernabéu Stadium , Madrid.
                   <span className="seat">Asiento</span>
                 </div>
                 <div className="row1">
-                  <span className="seat"> 202</span>
-                  <span className="seat"> 5</span>
+                  <span className="seat"> 104</span>
+                  <span className="seat"> 4</span>
                   <span className="seat"> 6</span>
                 </div>
               </div>
@@ -237,14 +237,14 @@ Santiago Bernabéu Stadium , Madrid.
                     <h3>The Eras Tour <br /></h3>
 
                     <p>
-                      Wed, Miè, 29 may 2024, 20:00
+                      Thu, Miè, 30 may 2024, 20:00
 Santiago Bernabéu Stadium , Madrid.
                     </p>
                   </div>
                 </div>
               </div>
               <div className="card-content">
-                <h2 className="name">sección 202</h2>
+                <h2 className="name">sección 104</h2>
                 <button className="btn-apple">
                   <img src="/ZDxqK9zTaxuz.png" alt="nick" className="apple" />
                   <span>Add to Apple Wallet</span>
@@ -270,8 +270,8 @@ Santiago Bernabéu Stadium , Madrid.
                   <span className="seat">Asiento</span>
                 </div>
                 <div className="row1">
-                  <span className="seat"> 202</span>
-                  <span className="seat"> 5</span>
+                  <span className="seat"> 104</span>
+                  <span className="seat"> 4</span>
                   <span className="seat"> 7</span>
                 </div>
               </div>
@@ -287,14 +287,14 @@ Santiago Bernabéu Stadium , Madrid.
                     <h3>The Eras Tour<br /></h3>
 
                     <p>
-                      Wed, Miè, 29 may 2024, 20:00
+                      Thu, Miè, 30 may 2024, 20:00
 Santiago Bernabéu Stadium , Madrid.
                     </p>
                   </div>
                 </div>
               </div>
               <div className="card-content">
-                <h2 className="name">sección 202</h2>
+                <h2 className="name">sección 104</h2>
                 <button className="btn-apple">
                   <img src="/ZDxqK9zTaxuz.png" alt="nick" className="apple" />
                   <span>Add to Apple Wallet</span>
@@ -320,8 +320,8 @@ Santiago Bernabéu Stadium , Madrid.
                   <span className="seat">Asiento</span>
                 </div>
                 <div className="row1">
-                  <span className="seat"> 202</span>
-                  <span className="seat"> 5</span>
+                  <span className="seat"> 104</span>
+                  <span className="seat"> 4</span>
                   <span className="seat"> 8</span>
                 </div>
               </div>
@@ -337,14 +337,14 @@ Santiago Bernabéu Stadium , Madrid.
                     <h3>The Eras Tour<br /></h3>
 
                     <p>
-                      Wed, Miè, 29 may 2024, 20:00
+                      Thu, Miè, 30 may 2024, 20:00
 Santiago Bernabéu Stadium , Madrid.
                     </p>
                   </div>
                 </div>
               </div>
               <div className="card-content">
-                <h2 className="name">sección 202</h2>
+                <h2 className="name">sección 104</h2>
                 <button className="btn-apple">
                   <img src="/ZDxqK9zTaxuz.png" alt="nick" className="apple" />
                   <span>Add to Apple Wallet</span>
@@ -372,8 +372,8 @@ Santiago Bernabéu Stadium , Madrid.
                   <span className="seat">Asiento</span>
                 </div>
                 <div className="row1">
-                  <span className="seat"> 202</span>
-                  <span className="seat"> 5</span>
+                  <span className="seat"> 104</span>
+                  <span className="seat"> 4</span>
                   <span className="seat"> 6</span>
                 </div>
               </div>
@@ -389,14 +389,14 @@ Santiago Bernabéu Stadium , Madrid.
                     <h3>The Eras Tour <br /></h3>
 
                     <p>
-                      Wed, Miè, 29 may 2024, 20:00
+                      Thu, Miè, 30 may 2024, 20:00
 Santiago Bernabéu Stadium , Madrid.
                     </p>
                   </div>
                 </div>
               </div>
               <div className="card-content">
-                <h2 className="name">sección 202</h2>
+                <h2 className="name">sección 104</h2>
                 <button className="btn-apple">
                   <img src="/ZDxqK9zTaxuz.png" alt="nick" className="apple" />
                   <span>Add to Apple Wallet</span>
@@ -422,8 +422,8 @@ Santiago Bernabéu Stadium , Madrid.
                   <span className="seat">Asiento</span>
                 </div>
                 <div className="row1">
-                  <span className="seat"> 202</span>
-                  <span className="seat"> 5</span>
+                  <span className="seat"> 104</span>
+                  <span className="seat"> 4</span>
                   <span className="seat"> 7</span>
                 </div>
               </div>
@@ -439,14 +439,14 @@ Santiago Bernabéu Stadium , Madrid.
                     <h3>The Eras Tour<br /></h3>
 
                     <p>
-                      Wed, Miè, 29 may 2024, 20:00
+                      Thu, Miè, 30 may 2024, 20:00
 Santiago Bernabéu Stadium , Madrid.
                     </p>
                   </div>
                 </div>
               </div>
               <div className="card-content">
-                <h2 className="name">sección 202</h2>
+                <h2 className="name">sección 104</h2>
                 <button className="btn-apple">
                   <img src="/ZDxqK9zTaxuz.png" alt="nick" className="apple" />
                   <span>Add to Apple Wallet</span>
@@ -472,8 +472,8 @@ Santiago Bernabéu Stadium , Madrid.
                   <span className="seat">Asiento</span>
                 </div>
                 <div className="row1">
-                  <span className="seat"> 202</span>
-                  <span className="seat"> 5</span>
+                  <span className="seat"> 104</span>
+                  <span className="seat"> 4</span>
                   <span className="seat"> 8</span>
                 </div>
               </div>
@@ -489,14 +489,14 @@ Santiago Bernabéu Stadium , Madrid.
                     <h3>The Eras Tour<br /></h3>
 
                     <p>
-                      Wed, Miè, 29 may 2024, 20:00
+                      Thu, Miè, 30 may 2024, 20:00
 Santiago Bernabéu Stadium , Madrid.
                     </p>
                   </div>
                 </div>
               </div>
               <div className="card-content">
-                <h2 className="name">sección 202</h2>
+                <h2 className="name">sección 104</h2>
                 <button className="btn-apple">
                   <img src="/ZDxqK9zTaxuz.png" alt="nick" className="apple" />
                   <span>Add to Apple Wallet</span>
